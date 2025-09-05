@@ -158,7 +158,7 @@
 
     iput v0, p0, Lcom/android/support/Menu;->MENU_WIDTH:I
 
-    const/16 v0, 0xd2
+    const/16 v0, 0x1a4
 
     iput v0, p0, Lcom/android/support/Menu;->MENU_HEIGHT:I
 
