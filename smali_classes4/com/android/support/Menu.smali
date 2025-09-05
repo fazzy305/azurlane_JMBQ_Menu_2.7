@@ -154,11 +154,11 @@
 
     iput v0, p0, Lcom/android/support/Menu;->MENU_FEATURE_BG_COLOR:I
 
-    const/16 v0, 0x91
+    const/16 v0, 0x122
 
     iput v0, p0, Lcom/android/support/Menu;->MENU_WIDTH:I
 
-    const/16 v0, 0x69
+    const/16 v0, 0xd2
 
     iput v0, p0, Lcom/android/support/Menu;->MENU_HEIGHT:I
 
@@ -174,7 +174,7 @@
 
     iput v0, p0, Lcom/android/support/Menu;->MENU_CORNER:F
 
-    const/16 v0, 0x2d
+    const/16 v0, 0x69 #图标大小减半
 
     iput v0, p0, Lcom/android/support/Menu;->ICON_SIZE:I
 
