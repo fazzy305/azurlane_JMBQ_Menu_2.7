@@ -174,7 +174,7 @@
 
     iput v0, p0, Lcom/android/support/Menu;->MENU_CORNER:F
 
-    const/16 v0, 0x23 #图标大小减半
+    const/16 v0, 0x11 #图标大小改为1/4
 
     iput v0, p0, Lcom/android/support/Menu;->ICON_SIZE:I
 
