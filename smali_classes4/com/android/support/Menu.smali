@@ -162,7 +162,7 @@
 
     iput v0, p0, Lcom/android/support/Menu;->MENU_HEIGHT:I
 
-    const/16 v0, 0x3a3
+    const/16 v0, 0x145  # 从931改为325 (0x145 = 325)
 
     iput v0, p0, Lcom/android/support/Menu;->POS_X:I
 
