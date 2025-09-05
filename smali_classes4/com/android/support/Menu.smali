@@ -154,11 +154,11 @@
 
     iput v0, p0, Lcom/android/support/Menu;->MENU_FEATURE_BG_COLOR:I
 
-    const/16 v0, 0x122
+    const/16 v0, 0x91
 
     iput v0, p0, Lcom/android/support/Menu;->MENU_WIDTH:I
 
-    const/16 v0, 0xd2
+    const/16 v0, 0x69
 
     iput v0, p0, Lcom/android/support/Menu;->MENU_HEIGHT:I
 
